@@ -89,7 +89,7 @@ function LandingPage() {
                     </div>
                     <div className="containerLabel">
                         <div>
-                            <Question>¿Quieres volverte uno de nuestros técnicos?</Question>
+                            <Question>¿Quieres volverte uno de nuestros técnicos experimentados?</Question>
                             <Paragraph>Te damos las oportunidad de ayudar a los demas con tu conocimiento y tiempo, puedes registrarte como técnico aquí, solo completa tu registro y empieza a ayudar a los demás.</Paragraph>
                         </div>
                     </div>
