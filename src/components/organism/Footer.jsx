@@ -12,8 +12,8 @@ function Footer() {
             <footer>
                 <div class="container-footer">
                     <div class="container-footer-info">
-                        <div className="colortitle">
-                            <Title>Síguenos</Title>
+                        <div>
+                            <Title className="colortitle">Síguenos</Title> 
                         </div>
                         
                     </div>

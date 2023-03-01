@@ -21,7 +21,7 @@ function LandingUser() {
             <div>
                 <div>
                     <div className="containerTitulo">
-                        <SubTitle>Aprende a utilizar y aprovechar correctamente nuestro soporte técnico con TechSupportFY.</SubTitle>
+                        <SubTitle>Aprende a utilizar y aprovechar correctamente nuestro soporte técnico.</SubTitle>
                     </div>
                     <div className="containerPadre">
                         <div className="containerText">

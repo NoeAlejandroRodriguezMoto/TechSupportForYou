@@ -1,8 +1,8 @@
 .containerPadre{
     display: flex;
-    padding-left: 5rem;
+    padding-left: 5.2rem;
     align-items: center;
-    width: 90%;
+    width: 95%;
     margin-bottom: 3%;
 }
 
@@ -24,7 +24,7 @@
 
 .containerImg2{
     display: flex;
-    justify-content: left;
+    justify-content: start;
     width: 50%;
 }
 

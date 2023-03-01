@@ -26,7 +26,7 @@ function LandingPage() {
             <div>
                 <div>
                     <div className="containerTitulo">
-                        <SubTitle>TechSupportFY te brinda Tips, soluciones y seguridad para tu laptop, usala y cuidala al 100%</SubTitle>
+                        <SubTitle>Tips, soluciones y seguridad para tu laptop, usala y cuidala al 100%</SubTitle>
                     </div>
                     <div className="containerPadre">
                         <div className="containerText">

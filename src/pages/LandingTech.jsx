@@ -21,7 +21,7 @@ function LandingTech() {
             <div>
                 <div>
                     <div className="containerTitulo">
-                        <SubTitle>Aprende a brindar consultas de buena calidad a todos los usuarios con TechSupportFY.</SubTitle>
+                        <SubTitle>Aprende a brindar consultas de buena calidad a todos nuestros usuarios.</SubTitle>
                     </div>
                     <div className="containerPadre">
                         <div className="containerText">
